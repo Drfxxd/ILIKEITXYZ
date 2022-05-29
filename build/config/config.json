@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD41707E1b656b91c3c8aFA5061fd3b8e78Cf8e13",
+  "SCAN_LINK": "https://polygonscan.com/token/0xD41707E1b656b91c3c8aFA5061fd3b8e78Cf8e13",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "I Like It XYZ",
+  "SYMBOL": "ILI",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 25000000000000000000,
+  "DISPLAY_COST": 25,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://https://opensea.io/collection/i-like-it-xyz",
+  "SHOW_BACKGROUND": true
+}
